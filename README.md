@@ -1,6 +1,6 @@
 # Portfolio
 This is my portfolio which demonstrates knowledge of manual and automated testing.
-- [My CV](#My-CV
+- [My CV](#My-CV)
 - [My Work](#My-Work)
 - [My Articles](#my-articles)
 - [Courses](#Courses-and-Certifications)
