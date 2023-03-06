@@ -11,6 +11,6 @@ This is my portfolio which demonstrates my knowledge of manual and automated tes
 ## Courses and Certifications
 ## My Work
 ## My Articles
-__VirtualBox__
-  * able to set up and operate virtual machines
+__Processes and Approaches For a Successful Testing Strategy__
+  * (https://drive.google.com/drive/folders/1A24JApCQQtipWkuKmbCYr2NknHcVKkpZ)
 
