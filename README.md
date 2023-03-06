@@ -2,8 +2,8 @@
 This is my portfolio which demonstrates my knowledge of manual and automated testing.
 - [Skills](#Skills)
 - [Tools](#Tools)
-- [Courses](#Courses)
-- [Examples of my work](#examples-of-my-work)
+- [Courses](#Courses-and-Certifications)
+- [Examples of my work](#My-Work)
 - [My Articles](#my-articles)
 
 ## Skills
