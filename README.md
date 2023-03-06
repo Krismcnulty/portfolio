@@ -18,7 +18,7 @@ __SoapUI__
 
 ## My Work
 __Manual Testing__
-[Here is an example of a Test Plan / Test log i created](https://docs.google.com/spreadsheets/d/1NOWuZfHz2At_I7FeXZSv4b5HHJd4XyMb/edit?usp=share_link&ouid=101894223347022747102&rtpof=true&sd=true)
+ * [Here is an example of a Test Plan / Test log i created](https://docs.google.com/spreadsheets/d/1NOWuZfHz2At_I7FeXZSv4b5HHJd4XyMb/edit?usp=share_link&ouid=101894223347022747102&rtpof=true&sd=true)
 __Automation Testing__
 
 ## My Articles
