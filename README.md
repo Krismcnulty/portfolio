@@ -12,7 +12,7 @@ This is my portfolio which demonstrates my knowledge of manual and automated tes
 ## My Work
 ## My Articles
 __Processes and Approaches For a Successful Testing Strategy__
-  * [Link](https://drive.google.com/file/d/1RVbv5DX9hvnqKNIU68LbhtwyerLobNMh/view?usp=share_link).
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
+  * This article gives a brief look into the processes and approaches I believe are important for a successful testing strategy.[Click the link to view the article](https://drive.google.com/file/d/1RVbv5DX9hvnqKNIU68LbhtwyerLobNMh/view?usp=share_link).
+
 
 
