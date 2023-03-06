@@ -8,7 +8,7 @@ This is my portfolio which demonstrates my knowledge of manual and automated tes
 
 ## Skills
 ## Tools
-## Courses and certifications
+## Courses and Certifications
 ## My Work
 ## My Articles
 
