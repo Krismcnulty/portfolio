@@ -1,12 +1,11 @@
 # Portfolio
-This is my portfolio which demonstrates knowledge of manual and automated testing.
 - [My CV](#My-CV)
 - [My Work](#My-Work)
 - [My Articles](#my-articles)
 - [Courses](#Courses-and-Certifications)
 
 ## My CV
-* [You can view my CV here.]()
+* [You can view my CV here.](https://drive.google.com/file/d/1sjPQZIsOF7pYOe6izD9hJYH0PX90pBJY/view?usp=share_link)
 ## My Work
 __Manual Testing__
  * [Example of a Test Plan / Test log I created for educational purposes](https://docs.google.com/spreadsheets/d/1NOWuZfHz2At_I7FeXZSv4b5HHJd4XyMb/edit?usp=share_link&ouid=101894223347022747102&rtpof=true&sd=true)
