@@ -1,14 +1,8 @@
 # Portfolio
 This is my portfolio which demonstrates my knowledge of manual and automated testing.
-- [Courses](#Courses-and-Certifications)
 - [My Work](#My-Work)
 - [My Articles](#my-articles)
-
-## Courses and Certifications
-__Java Programming - sololearn__
-__SQL - Sololearn__
-__SoapUI__
-__SoapUI__
+- [Courses](#Courses-and-Certifications)
 
 ## My Work
 __Manual Testing__
@@ -30,6 +24,15 @@ __Acquiring Relevant Test Data__
   *  State Transition Testing
   *  Use Case Testing 
   * [Click the link to view the article](https://drive.google.com/file/d/1SDewYK9xMTt-AJr4iDDnrM-cC0ykmAHF/view?usp=share_link).
+
+## Courses and Certifications
+__Java Programming - sololearn__
+
+__SQL - Sololearn__
+
+__SoapUI__
+
+__SoapUI__
 
 
 
