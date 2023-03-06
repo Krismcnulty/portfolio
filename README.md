@@ -32,7 +32,8 @@ __Java Programming - sololearn__
 __SQL - Sololearn__
 
 __HTML - sololearn__
-[Link to certificate](https://drive.google.com/file/d/1x1aipTNoF3HnEd1QxRbG2AYnM17NdDEt/view?usp=share_link)
+* This online course gave me a look at front-end development and how to build webpages. The knowledge of HTML syntax has greatly aided in my learning of software testing as it allowed me to be comfortable with locaters when using Selenium.
+* [Link to certificate](https://drive.google.com/file/d/1x1aipTNoF3HnEd1QxRbG2AYnM17NdDEt/view?usp=share_link)
 
 __SoapUI__
 
