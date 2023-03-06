@@ -21,7 +21,7 @@ __Acquiring Relevant Test Data__
   * • Decision Table Testing
   * • State Transition Testing
   * • Use Case Testing 
-  * [Click the link to view the article (https://drive.google.com/file/d/1SDewYK9xMTt-AJr4iDDnrM-cC0ykmAHF/view?usp=share_link).
+  * [Click the link to view the article](https://drive.google.com/file/d/1SDewYK9xMTt-AJr4iDDnrM-cC0ykmAHF/view?usp=share_link).
 
 
 
