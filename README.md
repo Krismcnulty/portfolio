@@ -2,7 +2,7 @@
 - [My CV](#My-CV)
 - [My Work](#My-Work)
 - [My Articles](#my-articles)
-- [Courses](#Courses-and-Certifications)
+- [Courses & Certifications](#Courses-and-Certifications)
 
 ## My CV
 * [You can view my CV here.](https://drive.google.com/file/d/1sjPQZIsOF7pYOe6izD9hJYH0PX90pBJY/view?usp=share_link)
