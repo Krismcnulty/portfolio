@@ -31,7 +31,8 @@ __Java Programming - sololearn__
 
 __SQL - Sololearn__
 
-__SoapUI__
+__HTML - sololearn__
+[Link to certificate](https://drive.google.com/file/d/1x1aipTNoF3HnEd1QxRbG2AYnM17NdDEt/view?usp=share_link)
 
 __SoapUI__
 
