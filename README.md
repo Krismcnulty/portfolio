@@ -3,7 +3,7 @@ This is my portfolio which demonstrates my knowledge of manual and automated tes
 - [Skills](#Skills)
 - [Tools](#Tools)
 - [Courses](#Courses-and-Certifications)
-- [Examples of my work](#My-Work)
+- [My Work](#My-Work)
 - [My Articles](#my-articles)
 
 ## Skills
