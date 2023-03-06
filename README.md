@@ -28,26 +28,28 @@ __Acquiring Relevant Test Data__
 
 ## Courses and Certifications
 __Software Development (Level 5 Foundation Degree) - Ulster University__
+* My first introduction to Software Testing. Through studying a 14-week Software testing module within my degree I have not only built a solid knowledge of modern QA practices in both manual and automated testing but also a desire to pursue Test Engineering as a career. 
+* Currently studying.
 
 
 
 __ISTQB Certified Tester Foundation Level (CTFL)__
-While studying Software testing in my degree, the curriculum was based heavily on the ISTQB Foundation level Syllabus. Therefore, I am currently studying the syllabus with intentions of completing the Certified Tester Foundation Level exam.
+* While studying Software testing in my degree, the curriculum was based heavily on the ISTQB Foundation level Syllabus. Therefore, I am currently studying the syllabus with intentions of completing the Certified Tester Foundation Level exam.
 
 __Java Programming - University of Helsinki__
-online course by University of Helsinki MOOC
-https://java-programming.mooc.fi/
-Currently in progress, I am using this course as a revision resource alongside my current Degree.
+* online course by University of Helsinki MOOC
+* https://java-programming.mooc.fi/
+* Currently in progress, I am using this course as a revision resource alongside my current Degree.
 
 __Java Programming - sololearn__
 
-__SQL - Sololearn__
+__SQL - sololearn__
 
 __HTML - sololearn__
 * This online course gave me a look at front-end development and how to build webpages. The knowledge of HTML syntax has greatly aided in my learning of software testing as it allowed me to be comfortable with locaters when using Selenium.
 * [Link to certificate](https://drive.google.com/file/d/1x1aipTNoF3HnEd1QxRbG2AYnM17NdDEt/view?usp=share_link)
 
-__SoapUI__
+__CSS - sololearn__
 
 
 
