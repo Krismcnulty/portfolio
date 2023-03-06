@@ -1,5 +1,5 @@
 # Portfolio
-This is my portfolio which demonstrates my knowledge of manual and automated testing.
+This is my portfolio which demonstrates knowledge of manual and automated testing.
 - [My Work](#My-Work)
 - [My Articles](#my-articles)
 - [Courses](#Courses-and-Certifications)
