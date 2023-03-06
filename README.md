@@ -27,6 +27,18 @@ __Acquiring Relevant Test Data__
   * [Click the link to view the article](https://drive.google.com/file/d/1SDewYK9xMTt-AJr4iDDnrM-cC0ykmAHF/view?usp=share_link).
 
 ## Courses and Certifications
+__Software Development (Level 5 Foundation Degree) - Ulster University__
+
+
+
+__ISTQB Certified Tester Foundation Level (CTFL)__
+While studying Software testing in my degree, the curriculum was based heavily on the ISTQB Foundation level Syllabus. Therefore, I am currently studying the syllabus with intentions of completing the Certified Tester Foundation Level exam.
+
+__Java Programming - University of Helsinki__
+online course by University of Helsinki MOOC
+https://java-programming.mooc.fi/
+Currently in progress, I am using this course as a revision resource alongside my current Degree.
+
 __Java Programming - sololearn__
 
 __SQL - Sololearn__
