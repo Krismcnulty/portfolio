@@ -12,7 +12,7 @@ __Manual Testing__
  * In the example above I am testing a mobile network providing service which includes calculations of prices based on different providers and additional discount they may provide. In this application I encountered a few bugs in the calculation of actual prices when I cross-referenced them against my expected results. These bugs were then recorded in a test report and screenshots were provided.
 
 __Automation Testing__
-* https://github.com/Krismcnulty/ParaBank_Testing
+* [Para Bank Test Automation](https://github.com/Krismcnulty/ParaBank_Testing)
 
 
 
