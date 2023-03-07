@@ -13,10 +13,7 @@ __Manual Testing__
 
 __Automation Testing__
 - [Para Bank Test Automation](https://github.com/Krismcnulty/ParaBank_Testing):
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
-  * Bug #2
-
-
+  * In this project i automated different functionalities of the Para Bank web application using Selenium and Java.
 
 ## My Articles
 __Processes and Approaches For a Successful Testing Strategy__
