@@ -26,7 +26,7 @@ __Automation Testing__
 __Bug Reports__
 - [thetestingworld.com Bug reports using Jira](https://thetestingworld.com/):
   * In this project i used Jira to report bugs on thetestingworld.com website.
-  * [Screenshot of bug#1] (https://drive.google.com/file/d/1V1gUUMLWyiRAXoYVxHozloL5VSeZcwxN/view?usp=share_link)
+  * [Screenshot of bug#1](https://drive.google.com/file/d/1V1gUUMLWyiRAXoYVxHozloL5VSeZcwxN/view?usp=share_link)
 
 ## My Articles
 __Processes and Approaches For a Successful Testing Strategy__
