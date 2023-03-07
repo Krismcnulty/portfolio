@@ -24,9 +24,10 @@ __Automation Testing__
   * The presentation above is a simple look into how navigation methods are used in Selenium WebDriver in order to test a Log in page of a website. The test script only gives a brief overview of the method and does not go in depth in terms of testing the application.
 
 __Bug Reports__
-- [thetestingworld.com Bug reports using Jira](https://thetestingworld.com/):
-  * In this project i used Jira to report bugs on thetestingworld.com website.
-  * [Screenshot of bug#1](https://drive.google.com/file/d/1V1gUUMLWyiRAXoYVxHozloL5VSeZcwxN/view?usp=share_link)
+- thetestingworld.com Bug reports using Jira:
+  * In this project i used Jira to report bugs on [thetestingworld.com website](https://thetestingworld.com/).
+  * [Screenshot of bug report](https://drive.google.com/file/d/1V1gUUMLWyiRAXoYVxHozloL5VSeZcwxN/view?usp=share_link)
+  * [Screenshot of bug](https://drive.google.com/file/d/1lkX95eRM_P2jms-qs_4NqGsJLShGrEN8/view?usp=share_link)
 
 ## My Articles
 __Processes and Approaches For a Successful Testing Strategy__
