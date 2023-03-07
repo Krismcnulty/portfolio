@@ -6,14 +6,19 @@
 
 ## My CV
 * [You can view my CV here.](https://drive.google.com/file/d/1sjPQZIsOF7pYOe6izD9hJYH0PX90pBJY/view?usp=share_link)
+
 ## My Work
 __Manual Testing__
 - [Test Plan / Test log created for educational purposes](https://docs.google.com/spreadsheets/d/1NOWuZfHz2At_I7FeXZSv4b5HHJd4XyMb/edit?usp=share_link&ouid=101894223347022747102&rtpof=true&sd=true):
   * In the example above I am testing a mobile network providing service which includes calculations of prices based on different providers and additional discount they may provide. In this application I encountered a few bugs in the calculation of actual prices when I cross-referenced them against my expected results. These bugs were then recorded in a test report and screenshots were provided.
 
 __Automation Testing__
-- [Para Bank Test Automation](https://github.com/Krismcnulty/ParaBank_Testing):
+- [Para Bank Test Automation Project](https://github.com/Krismcnulty/ParaBank_Testing):
   * In this project i automated different functionalities of the Para Bank web application using Selenium and Java.
+
+- [PHP Travels Website Automation Project](https://github.com/Krismcnulty/ParaBank_Testing):
+  * This site offers web pages where you can test online booking for hotel, flight, tours, and travel.
+  * This project includes bug reports
 
 - [Powerpoint on the use of navigation methods in Selenium](https://docs.google.com/presentation/d/1SeUVwwHafOE77vTyTwPKi3hUxuuINvxJ/edit?usp=share_link&ouid=101894223347022747102&rtpof=true&sd=true):
   * The presentation above is a simple look into how navigation methods are used in Selenium WebDriver in order to test a Log in page of a website. The test script only gives a brief overview of the method and does not go in depth in terms of testing the application.
