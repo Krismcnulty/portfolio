@@ -23,11 +23,16 @@ __Automation Testing__
 - [Powerpoint on the use of navigation methods in Selenium](https://docs.google.com/presentation/d/1SeUVwwHafOE77vTyTwPKi3hUxuuINvxJ/edit?usp=share_link&ouid=101894223347022747102&rtpof=true&sd=true):
   * The presentation above is a simple look into how navigation methods are used in Selenium WebDriver in order to test a Log in page of a website. The test script only gives a brief overview of the method and does not go in depth in terms of testing the application.
 
-__Bug Reports__
-- thetestingworld.com Bug reports using Jira:
-  * In this project i used Jira to report bugs on [thetestingworld.com website](https://thetestingworld.com/).
+__Bug Reports (Using Jira)__
+- Using Jira to report bugs on [thetestingworld.com website](https://thetestingworld.com/).
+
+- Bug report #1: Partial search bug.
   * [Screenshot of bug report](https://drive.google.com/file/d/1V1gUUMLWyiRAXoYVxHozloL5VSeZcwxN/view?usp=share_link)
   * [Screenshot of bug](https://drive.google.com/file/d/1lkX95eRM_P2jms-qs_4NqGsJLShGrEN8/view?usp=share_link)
+
+- Bug report #2: Incorrect item display bug.
+  * [Screenshot of bug report](https://drive.google.com/file/d/1PhFpzdMxd6bo2rIjieV3-8suHQkaA1rI/view?usp=share_link)
+  * [Screenshot of bug](https://drive.google.com/file/d/1WmRwP28KgivTOzppgTIVVaTBrkBzZJXy/view?usp=share_link)
 
 ## My Articles
 __Processes and Approaches For a Successful Testing Strategy__
