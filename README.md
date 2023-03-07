@@ -13,7 +13,7 @@ __Manual Testing__
 
 __Automation Testing__
 - [Para Bank Test Automation](https://github.com/Krismcnulty/ParaBank_Testing):
-  * In this project i automated different functionalities of the Para Bank web application using Selenium and Java.
+* In this project i automated different functionalities of the Para Bank web application using Selenium and Java.
 
 - [Powerpoint on the use of navigation methods in Selenium](https://docs.google.com/presentation/d/1SeUVwwHafOE77vTyTwPKi3hUxuuINvxJ/edit?usp=share_link&ouid=101894223347022747102&rtpof=true&sd=true):
   * The presentation above is a simple look into how navigation methods are used in Selenium WebDriver in order to test a Log in page of a website. The test script only gives a brief overview of the method and does not go in depth in terms of testing the application.
