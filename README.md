@@ -8,8 +8,8 @@
 * [You can view my CV here.](https://drive.google.com/file/d/1sjPQZIsOF7pYOe6izD9hJYH0PX90pBJY/view?usp=share_link)
 ## My Work
 __Manual Testing__
- - [Test Plan / Test log created for educational purposes](https://docs.google.com/spreadsheets/d/1NOWuZfHz2At_I7FeXZSv4b5HHJd4XyMb/edit?usp=share_link&ouid=101894223347022747102&rtpof=true&sd=true)
- * In the example above I am testing a mobile network providing service which includes calculations of prices based on different providers and additional discount they may provide. In this application I encountered a few bugs in the calculation of actual prices when I cross-referenced them against my expected results. These bugs were then recorded in a test report and screenshots were provided.
+- [Test Plan / Test log created for educational purposes](https://docs.google.com/spreadsheets/d/1NOWuZfHz2At_I7FeXZSv4b5HHJd4XyMb/edit?usp=share_link&ouid=101894223347022747102&rtpof=true&sd=true):
+  * In the example above I am testing a mobile network providing service which includes calculations of prices based on different providers and additional discount they may provide. In this application I encountered a few bugs in the calculation of actual prices when I cross-referenced them against my expected results. These bugs were then recorded in a test report and screenshots were provided.
 
 __Automation Testing__
 - [Para Bank Test Automation](https://github.com/Krismcnulty/ParaBank_Testing):
