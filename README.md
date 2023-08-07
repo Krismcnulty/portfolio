@@ -1,6 +1,7 @@
 # Portfolio
 - [My CV](#My-CV)
 - [Manual Testing](#Manual-Testing)
+- [Automation Testing](#Automation-Testing)
 - [My Articles](#my-articles)
 - [Courses & Certifications](#Courses-and-Certifications)
 
@@ -11,16 +12,6 @@
 __Manual__
 - [Test Plan / Test log created for educational purposes](https://docs.google.com/spreadsheets/d/1NOWuZfHz2At_I7FeXZSv4b5HHJd4XyMb/edit?usp=share_link&ouid=101894223347022747102&rtpof=true&sd=true):
   * In the example above I am testing a mobile network providing service which includes calculations of prices based on different providers and additional discount they may provide. In this application I encountered a few bugs in the calculation of actual prices when I cross-referenced them against my expected results. These bugs were then recorded in a test report and screenshots were provided.
-
-__Automation Testing__
-- [Para Bank Test Automation Project](https://github.com/Krismcnulty/ParaBank_Testing):
-  * In this project i automated different functionalities of the Para Bank web application using Selenium and Java.
-
-- [PHP Travels Website Automation Project](https://github.com/Krismcnulty/PHP_Testing):
-  * This site offers web pages where you can test online booking for hotel, flight, tours, and travel.
-
-- [Powerpoint on the use of navigation methods in Selenium](https://docs.google.com/presentation/d/1SeUVwwHafOE77vTyTwPKi3hUxuuINvxJ/edit?usp=share_link&ouid=101894223347022747102&rtpof=true&sd=true):
-  * The presentation above is a simple look into how navigation methods are used in Selenium WebDriver in order to test a Log in page of a website. The test script only gives a brief overview of the method and does not go in depth in terms of testing the application.
 
 __Bug Reports (Using Jira)__
 - [thetestingworld.com website](https://thetestingworld.com/) was used to create bug reports using Jira.
@@ -33,6 +24,16 @@ __Bug Reports (Using Jira)__
   * [Screenshot of bug report](https://drive.google.com/file/d/1PhFpzdMxd6bo2rIjieV3-8suHQkaA1rI/view?usp=share_link)
   * [Screenshot of bug](https://drive.google.com/file/d/1WmRwP28KgivTOzppgTIVVaTBrkBzZJXy/view?usp=share_link)
 
+## Automation Testing
+__Automation Testing__
+- [Para Bank Test Automation Project](https://github.com/Krismcnulty/ParaBank_Testing):
+  * In this project i automated different functionalities of the Para Bank web application using Selenium and Java.
+
+- [PHP Travels Website Automation Project](https://github.com/Krismcnulty/PHP_Testing):
+  * This site offers web pages where you can test online booking for hotel, flight, tours, and travel.
+
+- [Powerpoint on the use of navigation methods in Selenium](https://docs.google.com/presentation/d/1SeUVwwHafOE77vTyTwPKi3hUxuuINvxJ/edit?usp=share_link&ouid=101894223347022747102&rtpof=true&sd=true):
+  * The presentation above is a simple look into how navigation methods are used in Selenium WebDriver in order to test a Log in page of a website. The test script only gives a brief overview of the method and does not go in depth in terms of testing the application.
 ## My Articles
 __Processes and Approaches For a Successful Testing Strategy__
   * This article gives a brief look into the processes and approaches I believe are important for a successful testing strategy. 
