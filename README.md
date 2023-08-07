@@ -25,7 +25,7 @@ __Bug Reports (Using Jira)__
   * [Screenshot of bug](https://drive.google.com/file/d/1WmRwP28KgivTOzppgTIVVaTBrkBzZJXy/view?usp=share_link)
 
 ## Automation Testing
-__Automation Testing__
+__Automation__
 - [Para Bank Test Automation Project](https://github.com/Krismcnulty/ParaBank_Testing):
   * In this project i automated different functionalities of the Para Bank web application using Selenium and Java.
 
